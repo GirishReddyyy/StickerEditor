@@ -1,0 +1,16 @@
+{
+  "id": "cat-01",
+  "name": "Cheeky Cat",
+  "category": "cats",
+  "image": "/templates/cat-01.png",
+  "size": 512,
+  "faceSlots": [
+    {
+      "x": 176,
+      "y": 110,
+      "width": 160,
+      "height": 160,
+      "rotation": 0
+    }
+  ]
+}

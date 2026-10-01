@@ -1,0 +1,16 @@
+{
+  "id": "meme-01",
+  "name": "Superhero Frame",
+  "category": "memes",
+  "image": "/templates/meme-01.png",
+  "size": 512,
+  "faceSlots": [
+    {
+      "x": 180,
+      "y": 100,
+      "width": 150,
+      "height": 150,
+      "rotation": 3
+    }
+  ]
+}

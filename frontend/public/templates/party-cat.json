@@ -1,0 +1,16 @@
+{
+  "id": "party-cat",
+  "name": "Party Cat",
+  "category": "cats",
+  "image": "/templates/party-cat.png",
+  "size": 512,
+  "faceSlots": [
+    {
+      "x": 170,
+      "y": 150,
+      "width": 170,
+      "height": 170,
+      "rotation": 0
+    }
+  ]
+}

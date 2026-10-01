@@ -1,0 +1,16 @@
+{
+  "id": "dog-01",
+  "name": "Happy Puppy",
+  "category": "dogs",
+  "image": "/templates/dog-01.png",
+  "size": 512,
+  "faceSlots": [
+    {
+      "x": 160,
+      "y": 130,
+      "width": 190,
+      "height": 190,
+      "rotation": -5
+    }
+  ]
+}
